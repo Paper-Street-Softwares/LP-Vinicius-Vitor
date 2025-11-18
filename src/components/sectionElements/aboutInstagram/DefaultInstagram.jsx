@@ -14,7 +14,7 @@ function DefaultInstagram() {
         <img
           src={content.texts.about.aboutSocial.img.imgSocial}
           alt={content.texts.about.aboutSocial.img.altDefault}
-          className="w-full  object-cover rounded-xl"
+          className="w-[90%] m-auto object-cover rounded-xl shadow-custom-opacity shadow-shadowSteps/10"
           loading="lazy"
         />
       </picture>
