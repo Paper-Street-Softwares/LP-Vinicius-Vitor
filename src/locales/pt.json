@@ -12,13 +12,14 @@
       "service": "Serviços",
       "about": "Sobre Nós",
       "blog": "Blog",
+      "maps": "Mapa",
       "faq": "Perguntas Frequentes"
     },
     "ctaButtonText": "Contato",
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "ADVOCACIA PERSONALIZADA EM NATAL - RN",
+    "miniTag": "ESCRITÓRIO EM NATAL - RN",
     "title": "Justiça com <span class=\"text-primary font-bold\">estratégia</span> e <span class=\"text-primary font-bold\">resultado</span>",
     "subtitle": "Atuação jurídica personalizada para quem busca segurança, clareza e soluções eficazes em cada caso.",
     "ctaButtonText": "Fale com um advogado",
@@ -32,21 +33,21 @@
     "subtitle": "Descubra como podemos proteger seus direitos e simplificar sua vida com soluções legais sob medida.",
     "card1": {
       "title": "Direito Administrativo",
-      "subtitle": "Defesa e assessoria em processos administrativos.",
+      "subtitle": "Defesa e Assessoria em processos administrativos, concursos públicos, sindicâncias e PADs.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
       "title": "Direito do Trabalho",
-      "subtitle": "Proteção dos direitos de empregados e empregadores.",
+      "subtitle": "Defesa de Empregados e Empregadores em reclamações trabalhistas, rescisões e direitos salariais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "Direito Cível",
-      "subtitle": "Soluções eficazes para conflitos e responsabilidades.",
+      "title": "Direito Cível e Empresarial",
+      "subtitle": "Atuação em Indenizações, contratos, responsabilidade civil, cobranças e proteção do patrimônio de pessoas e empresas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
@@ -76,9 +77,9 @@
   },
   "maps": {
     "minitag": "LOCALIZAÇÃO",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
-    "embedsrc": "A_Definir"
+    "title": "Encontre-nos em Natal - RN",
+    "subtitle": "Visite nosso endereço e confira no mapa abaixo como chegar facilmente.",
+    "embedsrc": ""
   },
   "about": {
     "imagem": {
@@ -90,7 +91,7 @@
     "buttonModalLabelAbout": "Continuar lendo",
     "paragraph": "Iniciei a jornada no Direito como assistente jurídico, onde adquiri uma base sólida. Com o tempo, expandi minha atuação para áreas como Direito Civil, Trabalhista, Tributário e Previdenciário, desenvolvendo uma visão estratégica para questões jurídicas complexas.",
     "modal": "Iniciei a jornada no Direito como assistente jurídico, onde adquiri uma base sólida. Com o tempo, expandi minha atuação para áreas como Direito Civil, Trabalhista, Tributário e Previdenciário, desenvolvendo uma visão estratégica para questões jurídicas complexas. <br/><br/> Sou motivado pela oportunidade de impactar vidas, oferecendo suporte legal com empatia e compreensão. Acredito que cada cliente é único e merece uma atenção personalizada e cuidadosa. Meu compromisso é defender os direitos dos meus clientes com integridade e dedicação, garantindo segurança e confiança em cada etapa do processo.",
-    "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
+    "ctaButtonAriaLabel": "Quer saber mais sobre meu trabalho? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
       "miniTag": "REDES SOCIAIS",
@@ -113,7 +114,7 @@
     "title": "<span class=\"text-primary font-bold\">Dúvidas?</span> Entre em contato conosco para podermos lhe ajudar, <span class=\"text-primary font-bold\">estamos te esperando.</span>",
     "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
     "titleDireita": "WhatsApp",
-    "ctaButtonText": "Entre em Contato"
+    "ctaButtonText": "Fale agora com um advogado"
   },
   "steps": {
     "miniTag": "PASSO A PASSO",
@@ -123,24 +124,25 @@
       "card1": {
         "stepNumber": 1,
         "cardTitle": "Consulta inicial",
-        "cardDescription": "Realizamos uma reunião para entender seu caso e identificar suas necessidades jurídicas."
+        "cardDescription": "Realizamos uma conversa inicial, para entender seu caso, tirar as dúvidas e identificar suas necessidades."
       },
       "card2": {
         "stepNumber": 2,
         "cardTitle": "Análise detalhada",
-        "cardDescription": "Examinamos todos os aspectos do seu caso, revisando documentos e evidências para obter uma visão completa."
+        "cardDescription": "Analisamos documentos, provas e todos os detalhes da situação para ter uma visão do seu caso."
       },
       "card3": {
         "stepNumber": 3,
         "cardTitle": "Elaboração da estratégia",
-        "cardDescription": "Criamos uma estratégia jurídica personalizada para proteger seus interesses de maneira eficaz."
+        "cardDescription": "Definimos, junto com você, a melhor estratégia para proteger seus interesses. "
       },
       "card4": {
         "stepNumber": 4,
         "cardTitle": "Ação legal",
-        "cardDescription": "Iniciamos e conduzimos as ações judiciais ou o serviço contratado, buscando justiça e soluções personalizadas conforme a necessidade do seu caso."
+        "cardDescription": "Colocamos a estratégia em pratica, seja por meio de ações judiciais, acordos ou outras medidas necessárias."
       }
-    }
+    },
+    "labelButton": "Agendar minha consulta inicial"
   },
   "blog": {
     "miniTag": "BLOG",
