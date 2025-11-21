@@ -12,7 +12,6 @@
       "service": "Serviços",
       "about": "Sobre Nós",
       "blog": "Blog",
-      "maps": "Mapa",
       "faq": "Perguntas Frequentes"
     },
     "ctaButtonText": "Contato",
@@ -89,8 +88,8 @@
     "title": "Minha trajetória",
     "subtitle": "Minha filosofia profissional é centrada em uma abordagem humana, onde a comunicação transparente e o respeito são pilares fundamentais.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "Iniciei a jornada no Direito como assistente jurídico, onde adquiri uma base sólida. Com o tempo, expandi minha atuação para áreas como Direito Civil, Trabalhista, Tributário e Previdenciário, desenvolvendo uma visão estratégica para questões jurídicas complexas.",
-    "modal": "Iniciei a jornada no Direito como assistente jurídico, onde adquiri uma base sólida. Com o tempo, expandi minha atuação para áreas como Direito Civil, Trabalhista, Tributário e Previdenciário, desenvolvendo uma visão estratégica para questões jurídicas complexas. <br/><br/> Sou motivado pela oportunidade de impactar vidas, oferecendo suporte legal com empatia e compreensão. Acredito que cada cliente é único e merece uma atenção personalizada e cuidadosa. Meu compromisso é defender os direitos dos meus clientes com integridade e dedicação, garantindo segurança e confiança em cada etapa do processo.",
+    "paragraph": "Iniciei a jornada no Direito como assistente jurídico, onde adquiri uma base sólida. Com o tempo, expandi minha atuação para áreas do Direito Civil, Trabalhista e Administrativo, como foco em servidores, trabalhadores e empresas, desenvolvendo uma visão estratégica para questões jurídicas complexas.",
+    "modal": "Iniciei a jornada no Direito como assistente jurídico, onde adquiri uma base sólida. Com o tempo, expandi minha atuação para áreas do Direito Civil, Trabalhista e Administrativo, como foco em servidores, trabalhadores e empresas, desenvolvendo uma visão estratégica para questões jurídicas complexas.<br/><br/> Sou motivado pela oportunidade de impactar vidas, oferecendo suporte legal com empatia e compreensão. Acredito que cada cliente é único e merece uma atenção personalizada e cuidadosa. Meu compromisso é defender os direitos dos meus clientes com integridade e dedicação, garantindo segurança e confiança em cada etapa do processo.",
     "ctaButtonAriaLabel": "Quer saber mais sobre meu trabalho? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
