@@ -65,7 +65,7 @@ const currentYear = new Date().getFullYear();
 
 export const infos = {
   name: "Dr. Vinícius Vitor",
-  email: "contato", // Email desejado pelo cliente
+  email: "atendimento", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
   domain: "viniciusvictoradv.com.br", // Sem "www"
   phone: {
